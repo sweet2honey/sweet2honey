@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: Henry
-- 📑 Blog: [Henry's Blog](https://henrywu.bearblog.dev/)
 - 🔭 I’m currently working on automobile industry.
 - 💬 Ask me about C++, Rust, Software Design, Product.
 - 🌱 I’m currently learning: Machine Learning
-- 📫 How to reach me: sweet2honey @ qq.com
+- 📫 Reach me at: sweet2honey @ qq.com
 - ⚡ Fun fact: BMW fan, dreaming to own a M Power 🚗💨💨💨
